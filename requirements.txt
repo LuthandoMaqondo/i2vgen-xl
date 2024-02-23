@@ -21,7 +21,8 @@ scikit-learn
 scikit-image
 rotary-embedding-torch==0.2.1
 pynvml==11.5.0
-triton==2.0.0.dev20221120
+# triton==2.0.0.dev20221120
+triton
 pytorch-lightning==1.4.2
 torchmetrics==0.6.0
 gradio==3.39.0

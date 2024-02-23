@@ -98,7 +98,7 @@ noise_strength: 0.1
 # classifier-free guidance
 p_zero: 0.1
 guide_scale: 3.0
-num_steps: 1000000
+num_steps: 100
 
 use_zero_infer: True
 viz_interval: 5        # 200

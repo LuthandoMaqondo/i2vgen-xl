@@ -13,6 +13,6 @@ use_zero_infer: True
 round: 4
 seed: 8888
 test_list_path: data/text_img_for_t2v.txt
-vldm_cfg: configs/t2v_train.yaml
+vldm_cfg: configs/t2v_train_custom.yaml
 # test_model: workspace/model_bk/model_scope_0267000.pth
 test_model: workspace/model_bk/text2video_pytorch_model.pth
