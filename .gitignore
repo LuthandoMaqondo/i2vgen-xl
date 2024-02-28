@@ -17,3 +17,5 @@ cache*
 *DS_Store
 outputs/
 workspace/experiments/
+
+weights/
