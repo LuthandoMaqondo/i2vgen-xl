@@ -19,3 +19,5 @@ outputs/
 workspace/experiments/
 
 weights/
+models/
+weights_old/

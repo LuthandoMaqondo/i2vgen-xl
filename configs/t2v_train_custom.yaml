@@ -85,8 +85,9 @@ Pretrain: {
     'type': pretrain_specific_strategies,
     'fix_weight': False,
     'grad_scale': 0.5,
-    # 'resume_checkpoint': 'workspace/model_bk/model_scope_0267000.pth',
-    'resume_checkpoint': 'workspace/model_bk/text2video_pytorch_model.pth',
+    # # 'resume_checkpoint': 'workspace/model_bk/model_scope_0267000.pth',
+    # 'resume_checkpoint': 'workspace/model_bk/text2video_pytorch_model.pth',
+    'resume_checkpoint': 'workspace/model_bk/text2video_pytorch_model_01.pth',
     'sd_keys_path': 'data/stable_diffusion_image_key_temporal_attention_x1.json',
 }
 
