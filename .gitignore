@@ -16,6 +16,7 @@ cache*
 .DS_Store
 *DS_Store
 outputs/
+workspace/
 workspace/experiments/
 
 weights/
